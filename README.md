@@ -1,9 +1,6 @@
 
 ---
 
-# Heartbeat Monitoring System  
-
-
 # Heartbeat Monitoring System
 
 ## 🎯 Objective  
